@@ -1,7 +1,7 @@
 # GenAI-Agent-for-Financial-Analysis
 Overview
 
-In this project, I set up an Amazon Bedrock agent with an action group that dynamically creates an investment company portfolio based on specific parameters. The agent also has Q&A capabilities for Federal Open Market Committee (FOMC) reports, leveraging a Streamlit framework for the user interface. Additionally, this project includes a method for sending emails, although the email functionality will not be fully configured.
+In this project, I set up an Amazon Bedrock agent with an action group that analyzes data based on specific parameters. The agent also has Q&A capabilities for financial data reports, leveraging a Streamlit framework for the user interface. Additionally, this project includes a method for sending emails, although the email functionality will not be fully configured.
 
 Prerequisites
 
